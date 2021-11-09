@@ -1,2 +1,2 @@
-# django_example
-django example
+# django-starter-master
+Simple Django example
